@@ -5,7 +5,6 @@ A Python-based Raspberry Pi project that monitors temperature using the DHT11 se
 ## 📽️ Demo Video
 
 🎥 **Watch the demo**  
-🔊 *Note: Turn on your volume!*
 
 [▶️ Click here to view demo video](https://drive.google.com/file/d/1rGejXRGhs53z7bBM5AtFe6JSkQqzczKH/view?usp=sharing)
 
