@@ -10,7 +10,7 @@ A Python-based Raspberry Pi project that monitors temperature using the DHT11 se
 
 ## 📐 Schematics
 
-![Wiring Diagram](Video/wiring.png)
+![Wiring Diagram](Diagram/wiring.png)
 
 
 ## 🔧 Components Used
